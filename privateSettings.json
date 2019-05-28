@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shaped-ship-242002",
+  "private_key_id": "2e25842eafeb081e96ae0a2e9d6a162f76e00bc6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCIE9FZVIYF7zkN\nG1RFYXXjJJ29sBUQ3PsZxHPUM0x1TWCTbGfNhXAySZOXkDaN4+LLUBRxSBqSRwFl\nlqBYWC55AN/d3/13Jpp+eazPE2bxoZk+HEi614MUqnnkeEaPqpD1mkPt5bUSbPbh\nNWwtDQbE3PuvdpzxguH2FJOqKlD+7XXjPNcwEMXFGJuJPnmyuM6tkj3w6dpj85Yw\nlEDSNQuP6LN7Fs10E/rgQrq59pi6MjqoOdyjOJlZIMJY5xqp07Tx0GIseNaaCjrN\n3RYOjMI2diT9U2BhRBecZuPPQI66DL0q6cZtYu4DO3rIsu3A6iK3LFzinhChFnfK\nQzVTFzp3AgMBAAECggEAIZhi8x7/B7AL8cRxhb+OD0oW96HlUYh9JdtujVEs6zjz\nQvJcnkz3ajLoEV81WMqOT4uxwFYA2WRWX/JUG/uJXa5tlqWaOjR5qAf6NhWgML+o\nycDJ4/cZEZ0VAub+5LFDoJ85bh5sGeR0/xzlXCn/JdM5ABTUonuhtdNWsYhI/ubd\nLxdmlH1GwcRS+ILIHY3Q4XjB/0H8DIQgyoROwLXXst7lQ8zS/+Drdpy/1qsCzDAc\nqmPktqRMa+dE5pCgQDfDHNPXbCebJhsGskoBj+ePLHURPADBQ33rQOAMUNME/nCK\nrDnP+rettFhyOYCWPMDO5puZ9oHIvgO8ZTucUNmIgQKBgQC6pu9kvXoplwBuHyJz\n1qzcwRHhnzqs2XUSF4s7/sLXztTyV0aLfMTY/60ZRWOaJjAcZe2Z2openWpfQ7zZ\nTd8qRafx4Dgk6gqbR3s/jUwglG3kd7YEcxRikBd2xBalhQvQ+XEQxcBcsf1hzfBw\nW91600TQe+LzazY6Uwr3i5yKZwKBgQC6opETU9UmivPWoieocO7LRCEe3b2ui7Gh\nzSKxlgwctMIcW8pT3Y1a2AmJGUSOspf4f+57cymXszybskj3/rtXBShO4cEd0dK9\nP95DtbNS5wMpiA0rQg5PndIIl3vXFWYKDZRc+t06nMZAsY3mz7RwFFfwXOzez8jp\nd5ltXVDlcQKBgGzNwQENfrfdwS9wUMoL2wp4NW87PZ3iyV65gL2BXZ0lgXafL41C\nNxFzwTjY/R2vox36wM2N2lkbFBXiS6S0wyFGJ4dUuAW0tGgd/Bdoy3a2b3Td36mq\nV7i43CSsW7My4ld4ANPRIrgmPVkVDlLBClN98kBB52MUHTFUlTEGHkODAoGANt78\n0DXhgQdxUTUze65YRqKtKin/ToX7n5p0DMoUnYv3VecWwTluCbticlBfe6S+UW0r\nbFgbbmJf+1abZW4bHiaCB08QO/gogUN50WZmZoVMxLUfSgyNsJKx4ZzH6CB+c44y\nhHOs/0KAdxy8n5OJdTpF8IEhkxB7/UgQb7rzwcECgYBJj1xcAMLdJorsD49U+mKW\ncxBjFxMMP4dctI0Q0wutUlkS4SbSA82W2+wBudkGuI1iqKVUvB4Gbo6yGqp6g2EI\nDc8AbepXhykdd6TieJOtSpVeTvCgF+MIWkbGwAxogiuRucLfzYLrzxEDBM4WmSRG\nUVN29xKS2kAj3eLueA14fg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "zizwang@shaped-ship-242002.iam.gserviceaccount.com",
+  "client_id": "109638127536827162865",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zizwang%40shaped-ship-242002.iam.gserviceaccount.com"
+}
